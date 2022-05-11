@@ -1,5 +1,5 @@
 {
- "name": "@Miata74/doc-viewer",
+ "name": "@miata74/doc-viewer",
  "version": "1.0.00",
  "description": "Document viewer for react. Renders online/local documents.",
  "author": "Peter Starbek",
