@@ -1,8 +1,8 @@
 {
- "name": "@r-uis/doc-viewer",
- "version": "0.1.11",
+ "name": "@Miata74/doc-viewer",
+ "version": "1.0.00",
  "description": "Document viewer for react. Renders online/local documents.",
- "author": "Matthew Mogford",
+ "author": "Peter Starbek",
  "license": "ISC",
  "repository": {
   "url": "https://github.com/r-uis/doc-viewer"
